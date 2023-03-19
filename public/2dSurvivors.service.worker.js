@@ -3,7 +3,7 @@
 // that they need an Internet connection to run the project if desired.
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
-const CACHE_VERSION = "1679159165|46560124102";
+const CACHE_VERSION = "1679250484|137881265032";
 const CACHE_PREFIX = "2dSurvivors-sw-cache-";
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 const OFFLINE_URL = "2dSurvivors.offline.html";
